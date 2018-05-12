@@ -34,4 +34,4 @@ def selection(topic):
     print top_tfidf_feats(row, features, 25)
 
 
-selection('culture')
+selection('sport')
